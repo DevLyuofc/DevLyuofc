@@ -11,7 +11,7 @@
 - [Introdução](#introdução)
 - [Sobre](#sobre)
 - [Linguagens](#Linguagens)
-  - [Script de Instalação e Atualização](#script-de-instalação-e-atualização)
+  - [link dos jogos ](#jogos-que-ajudei)
   - [Notas Adicionais](#notas-adicionais)
 - [Uso](#uso)
 - [Contato](#contato)
@@ -37,10 +37,9 @@ Busco constantemente aprender novas ferramentas, para  aprimorar meu design de g
 
 ## Linguagens
 
-## 💻 Linguagens que Sei
+Estas são as linguagens com as quais tenho mais experiência e utilizo no desenvolvimento de jogos e ferramentas:
 
 ```markdown
-Estas são as linguagens com as quais tenho mais experiência e utilizo no desenvolvimento de jogos e ferramentas:
 
 - C# → Minha principal linguagem para criar jogos em Unity, com foco em gameplay, sistemas e lógica de interação.
 
@@ -53,8 +52,8 @@ Estas são as linguagens com as quais tenho mais experiência e utilizo no desen
 - C++ → Base do Unreal Engine e usada para entender o desempenho e otimização de jogos em baixo nível.
 
 ```
+## Jogos Que Ajudei
 
-gdsgsdgdsgdsgds
 
 
 
