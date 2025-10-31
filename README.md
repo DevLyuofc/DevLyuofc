@@ -39,22 +39,25 @@ Busco constantemente aprender novas ferramentas, para  aprimorar meu design de g
 
 ## 💻 Linguagens que Sei
 
-```bash
-# Isso é um bloco de código bash
-echo "Olá, Devlyu!"
-sudo apt update
 
-> Isso cria um bloco com destaque de sintaxe.  
-> O GitHub não permite limitar o “tamanho” diretamente (como CSS faria), mas você pode **usar um bloco recolhível** 👇
+---
 
-#### 🔽 Fazer um bloco recolhível:
+### 🪄 Exemplo real (para o seu portfólio)
+Se quiser mostrar como instalar ou rodar um projeto de jogo, você pode fazer assim:
+
 ```markdown
-<details>
-  <summary>Ver comandos bash</summary>
+## 🚀 Como Executar o Projeto
 
 ```bash
-echo "Instalando dependências..."
-sudo apt install unityhub
+# Clonar o repositório
+git clone https://github.com/devlyu/meu-jogo.git
+
+# Entrar na pasta do projeto
+cd meu-jogo
+
+# Executar o jogo
+./run.sh
+
 
 
 
