@@ -11,7 +11,7 @@
 - [Introdução](#introdução)
 - [Sobre](#sobre)
 - [Linguagens](#Linguagens)
-  - [link dos jogos ](#jogos-que-ajudei)
+  - [Link Dos Jogos ](#jogos-que-ajudei)
   - [Notas Adicionais](#notas-adicionais)
 - [Uso](#uso)
 - [Contato](#contato)
@@ -53,6 +53,14 @@ Estas são as linguagens com as quais tenho mais experiência e utilizo no desen
 
 ```
 ## Jogos Que Ajudei
+
+Aqui estão alguns jogos nos quais colaborei, seja desenvolvendo, testando ou dando suporte:
+
+Comunidade BR [TTD CMBr]
+```markdown
+-Jogo De Roleplay, Para se divertir E Conversar Escutar Musicas e ETC...
+-Eu Ajudei Nos Menus E No Mapa Do Jogo
+- [Ver no GitHub](https://github.com/DevLyu/PixelQuest) |
 
 
 
