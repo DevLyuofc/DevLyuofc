@@ -1,4 +1,4 @@
-"https://raw.githubusercontent.com/nvm-sh/nvm/master/logo.svg" width="60"/> Gerenciador de Versões do Node
+# <img src="https://raw.githubusercontent.com/nvm-sh/nvm/master/logo.svg" width="60"/> DevLyu
 
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/1234/badge)](https://bestpractices.coreinfrastructure.org/projects/1234)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
@@ -10,7 +10,7 @@
 ## Índice
 - [Introdução](#introdução)
 - [Sobre](#sobre)
-- [Instalação e Atualização](#instalação-e-atualização)
+- [Linguagens](#Linguagens)
   - [Script de Instalação e Atualização](#script-de-instalação-e-atualização)
   - [Notas Adicionais](#notas-adicionais)
 - [Uso](#uso)
@@ -20,12 +20,19 @@
 ---
 
 ## Introdução
-Bem-vindo ao meu projeto! Aqui você encontrará uma ferramenta para gerenciar versões do Node.js de forma simples e prática.
+Olá! Eu sou o Devlyu, um desenvolvedor de jogos, gosto  de criar ideias e trasnforma-las em jogos divertidos,
+Meu foco é criar Divertidos, mecânicas criativas e jogabilidade fluida que inspirem e divirtam jogadores.
+
 
 ## Sobre
-Este projeto foi desenvolvido com foco em aprendizado e produtividade no desenvolvimento backend com Node.js.
+Sou o Devlyu, um desenvolvedor de jogos movido pela paixão de criar experiências, tecnologia e emoção.
+Desde meus primeiros contatos com o mundo dos developers, sempre me dediquei para um dia virar um dos melhores dev do Mundo.
 
-## Instalação e Atualização
+Hoje, dedico meu tempo a desenvolver jogos 3D, explorando mecânicas criativas e histórias que cativem os jogadores.
+Busco constantemente aprender novas ferramentas, para  aprimorar meu design de gameplay e trabalhar em projetos que desafiem minha criatividade.
+
+
+## Linguagens
 ### Script de Instalação e Atualização
 ```bash
 curl -o- https://meuscript.sh | bash
