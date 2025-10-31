@@ -39,24 +39,22 @@ Busco constantemente aprender novas ferramentas, para  aprimorar meu design de g
 
 ## 💻 Linguagens que Sei
 
-
----
-
-### 🪄 Exemplo real (para o seu portfólio)
-Se quiser mostrar como instalar ou rodar um projeto de jogo, você pode fazer assim:
-
 ```markdown
-## 🚀 Como Executar o Projeto
+Estas são as linguagens com as quais tenho mais experiência e utilizo no desenvolvimento de jogos e ferramentas:
 
-```bash
-# Clonar o repositório
-git clone https://github.com/devlyu/meu-jogo.git
+- C# → Minha principal linguagem para criar jogos em Unity, com foco em gameplay, sistemas e lógica de interação.
 
-# Entrar na pasta do projeto
-cd meu-jogo
+- GDScript → Usada no Godot Engine, perfeita para prototipar ideias e desenvolver jogos 2D e 3D de forma ágil.
 
-# Executar o jogo
-./run.sh
+- JavaScript → Criação de interfaces, mini-jogos web e ferramentas interativas.
+
+- Python → Scripts, automações e pequenos sistemas de suporte para desenvolvimento de jogos.
+
+- C++ → Base do Unreal Engine e usada para entender o desempenho e otimização de jogos em baixo nível.
+
+```
+
+gdsgsdgdsgdsgds
 
 
 
