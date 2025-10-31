@@ -59,8 +59,38 @@ Aqui estão alguns jogos nos quais colaborei, seja desenvolvendo, testando ou da
 Comunidade BR [TTD CMBr]
 ```markdown
 -Jogo De Roleplay, Para se divertir E Conversar Escutar Musicas e ETC...
--Eu Ajudei Nos Menus E No Mapa Do Jogo
-- [Ver no GitHub](https://github.com/DevLyu/PixelQuest) |
+-Eu Ajudei Nos Menus E No Mapa Do Jogo, Nos LeaderBoards, Comandos Para Staff.
+------🇧🇷🌍 COMUNIDADE BRASILEIRA 🌍🇧🇷------ 🇧🇷
+{💃} Dancinhas do TTD BR 💥
+{🎶} IDs de Músicas 💥
+💎Não se esquece de deixar o Like e Favoritar o mapa💎
+------------------------------------------------------- 🇧🇷
+TAGS: roleplay dance catalog avatar creator music Ids favela julia dancinhas brasil criador ttd id id's cmbr
+```
+FNAF: Eternal Nights
+```markdown
+-Criei o Mapa de La
+-Fiz Os Menus
+-Ajudei Nos Efeitos
+🇧🇷 Um jogo feito com orgulho por desenvolvedores brasileiros! 🇧🇷
+
+⚠️ Aviso: Este jogo contém luzes piscantes, jumpscares intensos, sangue e outros elementos perturbadores.
+
+🧰 Desligamento = Nova atualização está disponível!
+
+👍Curta o jogo se você gostou, isso nos ajudará!
+
+📚 Junte-se ao nosso grupo oficial: Cob Studios.
+
+🚨 Encontrou algum bug ou tem alguma sugestão? Envie seu feedback pelas nossas redes sociais.
+
+🎧 Use fones de ouvido para uma melhor experiência.
+🎤 Mantenha o microfone ligado.
+
+❤️ Muito obrigado por jogar! Agradecemos de coração a cada um de vocês.
+
+🍕 Créditos a Scott Cawthon por criar a icônica franquia Five Nights at Freddy's!
+```
 
 
 
