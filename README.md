@@ -20,11 +20,13 @@
 ---
 
 ## Introdução
+
 Olá! Eu sou o Devlyu, um desenvolvedor de jogos, gosto  de criar ideias e trasnforma-las em jogos divertidos,
 Meu foco é criar Divertidos, mecânicas criativas e jogabilidade fluida que inspirem e divirtam jogadores.
 
 
 ## Sobre
+
 Sou o Devlyu, um desenvolvedor de jogos movido pela paixão de criar experiências, tecnologia e emoção.
 Desde meus primeiros contatos com o mundo dos developers, sempre me dediquei para um dia virar um dos melhores dev do Mundo.
 
@@ -32,9 +34,28 @@ Hoje, dedico meu tempo a desenvolver jogos 3D, explorando mecânicas criativas e
 Busco constantemente aprender novas ferramentas, para  aprimorar meu design de gameplay e trabalhar em projetos que desafiem minha criatividade.
 
 
+
 ## Linguagens
-```bash
+
 ## 💻 Linguagens que Sei
+
+```bash
+# Isso é um bloco de código bash
+echo "Olá, Devlyu!"
+sudo apt update
+
+> Isso cria um bloco com destaque de sintaxe.  
+> O GitHub não permite limitar o “tamanho” diretamente (como CSS faria), mas você pode **usar um bloco recolhível** 👇
+
+#### 🔽 Fazer um bloco recolhível:
+```markdown
+<details>
+  <summary>Ver comandos bash</summary>
+
+```bash
+echo "Instalando dependências..."
+sudo apt install unityhub
+
 
 
 
