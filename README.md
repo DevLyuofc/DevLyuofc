@@ -12,7 +12,7 @@
 - [Sobre](#sobre)
 - [Linguagens](#Linguagens)
   - [Link Dos Jogos ](#jogos-que-ajudei)
-  - [Notas Adicionais](#notas-adicionais)
+  - [Escala Dos Jogos](#Escala-Dos-Jogos)
 - [Uso](#uso)
 - [Contato](#contato)
 - [Direitos Autorais](#direitos-autorais)
@@ -68,7 +68,7 @@ Comunidade BR [TTD CMBr] [Ver no Roblox](https://www.roblox.com/pt/games/1281234
 ------------------------------------------------------- 🇧🇷
 TAGS: roleplay dance catalog avatar creator music Ids favela julia dancinhas brasil criador ttd id id's cmbr
 ```
-FNAF: Eternal Nights
+FNAF: Eternal Nights [Ver no Roblox](https://www.roblox.com/pt/games/11392373641/HALLOWEEN-FNAF-Eternal-Nights)
 ```markdown
 -Criei o Mapa de La
 -Fiz Os Menus
@@ -92,6 +92,30 @@ FNAF: Eternal Nights
 
 🍕 Créditos a Scott Cawthon por criar a icônica franquia Five Nights at Freddy's!
 ```
+
+CPX DO TG [Ver no Roblox](https://www.roblox.com/pt/games/130753805588251/CPX-DO-TG)
+```markdown
+-ajudei no mapa
+-ajudei nas armas
+-ajudei nos menus
+📌 Novidades:
+Mapa novo, cheio de vielas e becos para combates estratégicos
+
+Dominação de favelas: lute com seu time para controlar territórios
+
+Otimização para mobile: controles ajustados e gameplay fluida também em celular
+
+Suporte completo para PC, console e mobile
+
+Sistema de ranking e conquistas para mostrar quem é o verdadeiro líder
+
+Monte seu bonde, conquiste as favelas e prove quem manda no CPX DO TG.
+
+tags: TNP, General, favela, Guerra, TNF, PVP, ZEUS,FPS,, RP, ROLEPLAY, BRASIL, TNB, Complexo, Morro, Hood, Realistic, Bronx, Brazil, Rio de Janeiro, SP, São Paulo, CDP
+```
+## Escala Dos Jogos
+
+Comunidade BR ![Minha Foto](https://exemplo.com/minha-foto.png)
 
 
 
