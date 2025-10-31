@@ -39,3 +39,14 @@ Você pode consultar a licença dos projetos individuais nos respectivos reposit
 ---
 
 ⭐ Se gostou do meu trabalho, não esqueça de deixar uma estrela nos repositórios!  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
+
+
+MIT License
+
+Copyright (c) 2025 [Seu Nome]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software...
+
