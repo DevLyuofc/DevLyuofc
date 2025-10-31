@@ -10,10 +10,10 @@
 ## Índice
 - [Introdução](#introdução)
 - [Sobre](#sobre)
+- [Aplicativos](#aplicativos-que-uso)
 - [Linguagens](#Linguagens)
   - [Link Dos Jogos ](#jogos-que-ajudei)
   - [Escala Dos Jogos](#Escala-Dos-Jogos)
-- [Uso](#uso)
 - [Contato](#contato)
 - [Direitos Autorais](#direitos-autorais)
 
@@ -33,7 +33,7 @@ Desde meus primeiros contatos com o mundo dos developers, sempre me dediquei par
 Hoje, dedico meu tempo a desenvolver jogos 3D, explorando mecânicas criativas e histórias que cativem os jogadores.
 Busco constantemente aprender novas ferramentas, para  aprimorar meu design de gameplay e trabalhar em projetos que desafiem minha criatividade.
 
-
+##Aplicativos Que Uso
 
 ## Linguagens
 
@@ -115,7 +115,24 @@ tags: TNP, General, favela, Guerra, TNF, PVP, ZEUS,FPS,, RP, ROLEPLAY, BRASIL, T
 ```
 ## Escala Dos Jogos
 
-Comunidade BR ![Minha Foto](https://exemplo.com/minha-foto.png)
+Comunidade BR
+```markdown
+Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera        Criado        Atualizado    Tamanho do servidor   Gênero
+455        272.752     15.2M+       Suportado        Suportado     25/11/2024     29/10/2025            50            Social
+```
+Eternal Nights
+```markdown
+Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera          Criado        Atualizado    Tamanho do servidor      Gênero
+2.947       11.643     533.9K+       Suportado      Não suportado   27/10/2022      31/10/2025           100            Sobrevivencia
+```
+CPX DO TG
+```markdown
+Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera          Criado        Atualizado    Tamanho do servidor      Gênero       Subgênero
+2.117      3.401        2.7M+       Suportado        suportado      08/09/2024      31/10/2025           30                 Tiro     Atirador mata-mata
+```        
+
+
+
 
 
 
