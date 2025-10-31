@@ -16,7 +16,7 @@
   - [Link Dos Jogos ](#jogos-que-ajudei)
   - [Escala Dos Jogos](#Escala-Dos-Jogos)
 - [Contato](#contato)
-- [Direitos Autorais](#direitos-autorais)
+- [Direitos Autorais](#aviso-de-direitos-autorais)
 
 ---
 
@@ -160,6 +160,15 @@ Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera          Criado   
 ```        
 
 ## Contato
+ Se quiser entrar em contato comigo, você pode me achar nas seguintes plataformas:
+
+ Email: devlyu@email.com
+ Discord: lyuofckz
+
+## AVISO DE DIREITOS AUTORAIS
+
+© 2025 Devlyu. Todos os direitos reservados.
+
 
 
 
