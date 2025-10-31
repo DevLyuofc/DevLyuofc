@@ -1,16 +1,13 @@
 # <img src="https://raw.githubusercontent.com/nvm-sh/nvm/master/logo.svg" width="60"/> DevLyu
 
-[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/1234/badge)](https://bestpractices.coreinfrastructure.org/projects/1234)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Versão](https://img.shields.io/badge/version-1.0.0-blue)
-![Licença](https://img.shields.io/badge/license-MIT-yellow)
+
 
 ---
 
 ## Índice
 - [Introdução](#introdução)
 - [Sobre](#sobre)
-- [Aplicativos](#aplicativos-que-uso)
+- [Aplicativos](#Aplicativos-Que-Uso)
 - [Linguagens](#Linguagens)
   - [Link Dos Jogos ](#jogos-que-ajudei)
   - [Escala Dos Jogos](#Escala-Dos-Jogos)
@@ -33,8 +30,35 @@ Desde meus primeiros contatos com o mundo dos developers, sempre me dediquei par
 Hoje, dedico meu tempo a desenvolver jogos 3D, explorando mecânicas criativas e histórias que cativem os jogadores.
 Busco constantemente aprender novas ferramentas, para  aprimorar meu design de gameplay e trabalhar em projetos que desafiem minha criatividade.
 
-##Aplicativos Que Uso
+## Aplicativos Que Uso
 
+No meu dia a dia como desenvolvedor de jogos, utilizo diversas ferramentas para programação, design e produção de conteúdo:
+
+Para Jogos
+```markdown
+-Unity 
+
+-Godot Engine 
+
+-Unreal Engine 
+
+ Design e Arte
+```
+```markdown
+-Blender → Modelagem, animação e renderização 3D
+
+-Photoshop / Krita → Edição de texturas, sprites e ilustrações
+
+-FL Studio / Audacity → Criação e edição de trilhas sonoras e efeitos
+```
+ Desenvolvimento
+```markdown
+-VS Code / Rider / Godot Editor → Ambientes de programação
+
+-Git & GitHub → Controle de versão e colaboração em equipe
+
+-Trello / Notion → Organização de tarefas e gestão de projetos
+```
 ## Linguagens
 
 Estas são as linguagens com as quais tenho mais experiência e utilizo no desenvolvimento de jogos e ferramentas:
@@ -131,7 +155,7 @@ Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera          Criado   
 2.117      3.401        2.7M+       Suportado        suportado      08/09/2024      31/10/2025           30                 Tiro     Atirador mata-mata
 ```        
 
-
+## Contato
 
 
 
