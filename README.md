@@ -8,9 +8,10 @@
 
 ---
 
-## Índice
+## ìNDICE
 - [Introdução](#introdução)
 - [Sobre](#sobre)
+- [Experiencia](#minha-experiencia)
 - [Aplicativos](#Aplicativos-Que-Uso)
 - [Linguagens](#Linguagens)
   - [Link Dos Jogos ](#jogos-que-ajudei)
@@ -21,13 +22,13 @@
 
 ---
 
-## Introdução
+## INTRODUÇÃO
 
 Olá! Eu sou o Devlyu, um desenvolvedor de jogos, gosto  de criar ideias e trasnforma-las em jogos divertidos,
 Meu foco é criar Divertidos, mecânicas criativas e jogabilidade fluida que inspirem e divirtam jogadores.
 
 
-## Sobre
+## SOBRE
 
 Sou o Devlyu, um desenvolvedor de jogos movido pela paixão de criar experiências, tecnologia e emoção.
 Desde meus primeiros contatos com o mundo dos developers, sempre me dediquei para um dia virar um dos melhores dev do Mundo.
@@ -35,7 +36,25 @@ Desde meus primeiros contatos com o mundo dos developers, sempre me dediquei par
 Hoje, dedico meu tempo a desenvolver jogos 3D, explorando mecânicas criativas e histórias que cativem os jogadores.
 Busco constantemente aprender novas ferramentas, para  aprimorar meu design de gameplay e trabalhar em projetos que desafiem minha criatividade.
 
-## Aplicativos Que Uso
+## MINHA EXPERIENCIA
+
+Ao longo da minha jornada como desenvolvedor de jogos, adquiri experiência em várias áreas do desenvolvimento e da produção de conteúdo:
+
+Desenvolvimento de Jogos 2D e 3D: Criação de mecânicas, sistemas de gameplay e integração com gráficos e som.
+
+Programação: Domínio de C#, GDScript, Python e JavaScript para jogos e scripts de suporte.
+
+Engines de Jogos: Experiência prática com Unity, Godot e Unreal Engine.
+
+Design e Arte Digital: Criação de sprites, texturas, animações e modelos 3D com ferramentas como Blender e Photoshop/Krita.
+
+Controle de Versão e Colaboração: Uso de Git e GitHub para gerenciar projetos e trabalhar em equipe.
+
+Gestão de Projetos: Organização de tarefas, planejamento e acompanhamento usando ferramentas como Trello e Notion.
+
+Minha experiência combina criatividade, lógica e colaboração, permitindo que eu transforme ideias em jogos completos e funcionais, desde o protótipo até a versão final.
+
+## APLICATIVOS QUE USO
 
 No meu dia a dia como desenvolvedor de jogos, utilizo diversas ferramentas para programação, design e produção de conteúdo:
 
@@ -64,7 +83,7 @@ Para Jogos
 
 -Trello / Notion → Organização de tarefas e gestão de projetos
 ```
-## Linguagens
+## LINGUAGENS
 
 Estas são as linguagens com as quais tenho mais experiência e utilizo no desenvolvimento de jogos e ferramentas:
 
@@ -81,7 +100,7 @@ Estas são as linguagens com as quais tenho mais experiência e utilizo no desen
 - C++ → Base do Unreal Engine e usada para entender o desempenho e otimização de jogos em baixo nível.
 
 ```
-## Jogos Que Ajudei
+## JOGOS QUE AJUDEI
 
 Aqui estão alguns jogos nos quais colaborei, seja desenvolvendo, testando ou dando suporte:
 
@@ -142,7 +161,7 @@ Monte seu bonde, conquiste as favelas e prove quem manda no CPX DO TG.
 
 tags: TNP, General, favela, Guerra, TNF, PVP, ZEUS,FPS,, RP, ROLEPLAY, BRASIL, TNB, Complexo, Morro, Hood, Realistic, Bronx, Brazil, Rio de Janeiro, SP, São Paulo, CDP
 ```
-## Escala Dos Jogos
+## ESCALA DOS JOGOS
 
 Comunidade BR
 ```markdown
@@ -160,19 +179,27 @@ Ativo     Favoritos    Visitas    Bate-papo de voz    Câmera          Criado   
 2.117      3.401        2.7M+       Suportado        suportado      08/09/2024      31/10/2025           30                 Tiro     Atirador mata-mata
 ```        
 
-## Contato
+## CONTATO
  Se quiser entrar em contato comigo, você pode me achar nas seguintes plataformas:
 
  Email: devlyu@email.com
+ 
  Discord: lyuofckz
  
-## Licença
+## LICENÇA
 
 Consulte o arquivo LICENSE.md.
 
 ## Aviso de Direitos Autorais
 
-© 2025 Devlyu. Todos os direitos reservados.
+© 2025 Devlyu. Todos os direitos reservados. Todos os conteúdos que compartilho neste portfólio — incluindo jogos, códigos, imagens, vídeos e textos — são produtos do meu trabalho e da minha criatividade. Os direitos autorais existem para garantir que o autor do conteúdo, neste caso eu, Devlyu, tenha controle sobre como ele é utilizado.
+
+Isso significa que outras pessoas podem visualizar, estudar e se inspirar no meu trabalho, mas não podem copiar, redistribuir ou usar comercialmente sem minha autorização.
+
+O objetivo dessa seção é proteger minhas criações, respeitar o esforço investido no desenvolvimento dos projetos e, ao mesmo tempo, deixar claro para qualquer visitante como utilizar meu conteúdo de maneira ética e legal.
+
+Caso alguém queira parcerias, colaborações ou uso comercial, é possível entrar em contato diretamente comigo através da seção 📬 Contato
+.
 
 
 
